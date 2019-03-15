@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "XLCategory"
-  s.version      = "0.0.1"
+  s.version      = "0.0.5"
   s.summary      = "分类测试"
 
   s.description  = <<-DESC
